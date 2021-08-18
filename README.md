@@ -1,4 +1,5 @@
 # VORP Planting script!
+- This repository has been archived, while I am working on v2
 
 ## 1. Requirements
 
